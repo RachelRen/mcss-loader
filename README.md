@@ -3,7 +3,7 @@
 
 ## Installation
 ```
-npm install mcss-loader
+npm install webpack-mcss-loader --save-dev
 ```
 
 ## Usage
@@ -13,7 +13,7 @@ module: {
       {
         test: /\.mcss$/,
         use: [ {
-          loader: 'mcss-loader'
+          loader: 'webpack-mcss-loader'
         } ]
 
       },
