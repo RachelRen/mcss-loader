@@ -1,0 +1,19 @@
+{
+  "name": "mcss-loader",
+  "version": "1.0.0",
+  "description": "webpack mcss loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "mcss"
+  ],
+  "author": "RachelRen",
+  "license": "ISC",
+  "devDependencies": {
+    "mcss": "^0.5.1"
+  }
+
+}
